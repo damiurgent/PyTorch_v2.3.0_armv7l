@@ -4,7 +4,7 @@
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)]()
 [![PyTorch 2.3.0](https://img.shields.io/badge/PyTorch-2.3.0-red.svg)]()
 
-**Pre-built PyTorch 2.3.0 for ARMv7l architecture** - compiled on Orange Pi 5 (ARM Cortex-A76/A55) after 14 days of compilation.
+**Pre-built PyTorch 2.3.0 for ARMv7l architecture** - compiled on MeLE A1000 (ARM Cortex-A76/A55) after 14 days of compilation.
 
 ## ✨ Features
 
