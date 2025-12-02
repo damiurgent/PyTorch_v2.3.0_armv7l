@@ -17,12 +17,12 @@
 - ✅ **JIT compilation** (torch.jit)
 - ❌ **No CUDA support** (CPU only on ARM)
 
-## 📦 Installation
+## 🚀 Quick Installation
 
-### Quick Install (Recommended)
+### Method 1: Direct Download
 ```bash
-# 1. Install NumPy 1.x (required before PyTorch)
-pip install "numpy<2"
+# Download wheel package (176MB)
+wget https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0/torch-2.3.0+armv7l.lpt.mlh.2025-cp311-cp311-linux_armv7l.whl
 
-# 2. Install PyTorch for ARMv7l
+# Install
 pip install torch-2.3.0+armv7l.lpt.mlh.2025-cp311-cp311-linux_armv7l.whl
