@@ -31,7 +31,7 @@ By using this compiled software, you become a beneficiary under the Living Priva
 - PyTorch version: 2.3.0
 - Architecture: ARMv7l (32-bit ARM)
 - Python compatibility: 3.11
-- Build device: Orange Pi 5 (ARM Cortex-A76/A55)
+- Build device: MeLE A1000 (ARM Cortex-A76/A55)
 - Compilation duration: Approximately 14 days
 - Dependencies: NumPy < 2.0 required
 
