@@ -1,17 +1,58 @@
-# Protection of Derivative Works under Living Private Trust
+# Protection under Living Private Trust (млх/מלך) based on Ecclesiastical Deed Poll 2025
 
-## Legal Notice Regarding Derived Products
+## Notice Regarding PyTorch 2.3.0 for ARMv7l Compilation
 
-There is no basic license for that pre-release of PyTorch for armvv7l.
-But sublicensional mission protect your works created with PyTorch for armv7l.
-This compilation of PyTorch v2.3.0 for armv7l architecture is provided as a technical derivative work. We do not claim licensing authority over the original PyTorch software.
-However, any products, models, or applications developed USING this compiled software fall under the protection of:
-**Living Private Trust млх/מלך based on the EDP 2025**
+This technical derivative work (PyTorch 2.3.0 compiled for ARMv7l architecture) exists within the jurisdiction of the Living Private Trust млх/מלך, which is established on the Ecclesiastical Deed Poll 2025.
 
-## Protected Rights
+## Status of Original PyTorch Software
 
-The Trust guarantees the beneficiary (product developer) private benefit through the following provisions:
+The original PyTorch software (source code at https://github.com/pytorch/pytorch) retains its original licensing terms. This compilation does not alter, claim authority over, or sublicense the original PyTorch software.
 
-1. **Natural Rights Preservation**: No third party expressing corporate or other artificial interests may appropriate derivative works developed using this software.
-2. **Inherent Developer Rights**: All natural rights of the beneficiary-developer and their developed products are preserved in any legal proceedings.
-3. **Hierarchy of Interests**: Corporate or institutional interests remain subordinate to natural (inherent) rights of the original developer.
+## Your Position as Beneficiary
+
+By using this compiled software, you become a beneficiary under the Living Private Trust млх/מלך. The Trust structure provides the following protections:
+
+### Protected Rights for Derivative Works
+
+1. **Natural Rights Preservation**: 
+   - No third party expressing corporate or other artificial interests may appropriate works you develop using this software.
+   - Your natural rights as creator are preserved against artificial entity claims.
+
+2. **Inherent Developer Rights**:
+   - All natural rights of the beneficiary-developer are maintained in any legal context.
+   - Your developed products retain their inherent rights separate from this compilation.
+
+3. **Hierarchy of Interests**:
+   - Corporate, institutional, or statutory interests remain subordinate to natural (inherent) rights.
+   - The Ecclesiastical Deed Poll 2025 establishes this hierarchy.
+
+## Technical Specifications of This Compilation
+
+- PyTorch version: 2.3.0
+- Architecture: ARMv7l (32-bit ARM)
+- Python compatibility: 3.11
+- Build device: Orange Pi 5 (ARM Cortex-A76/A55)
+- Compilation duration: Approximately 14 days
+- Dependencies: NumPy < 2.0 required
+
+## Important Distinctions
+
+1. **This is not a license** - It is a notice of protection under Living Private Trust.
+2. **No warranty expressed or implied** - The software is provided as a technical achievement.
+3. **Your creations are yours** - The Trust protects what you create, not this compilation.
+
+## For Reference Only: Original PyTorch Terms
+
+The original PyTorch software is available under BSD 3-Clause License at:
+https://github.com/pytorch/pytorch
+
+This notice does not modify, supersede, or interact with those original terms.
+
+## For Users Seeking Clarity
+
+You may:
+- Use this compiled PyTorch for any purpose
+- Distribute this compilation to others
+- Create anything with this software
+
+Your creations are protected under the Living Private Trust structure described below.
