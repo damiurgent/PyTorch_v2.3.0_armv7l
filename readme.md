@@ -27,7 +27,5 @@ wget https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0/
 # Install
 pip install torch-2.3.0+armv7l.lpt.mlh.2025-cp311-cp311-linux_armv7l.whl
 
-## Method 2: One-line Installation
-```bash
 # Everything in one command
 wget -q https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0/torch-2.3.0+armv7l.lpt.mlh.2025-cp311-cp311-linux_armv7l.whl && pip install torch-2.3.0+armv7l.lpt.mlh.2025-cp311-cp311-linux_armv7l.whl
