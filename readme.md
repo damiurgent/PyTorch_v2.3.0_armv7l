@@ -5,7 +5,7 @@
 [![ARMv7l](https://img.shields.io/badge/arch-ARMv7l-green.svg)]()
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)]()
 
-**Pre-built PyTorch 2.3.0 for ARMv7l (32 bit) architecture** - compiled on MeLE A1000 (ARM Cortex-A76/A55) after 14 days of compilation.
+**Pre-built PyTorch 2.3.0 for ARMv7l (32 bit) architecture** - compiled on MeLE A1000 (ARM Cortex-A76/A55) after 14 days of compilation on Armbian_23.11.1_Melea1000_bookworm_current_6.1.63.iso
 
 ## ✨ Features
 
