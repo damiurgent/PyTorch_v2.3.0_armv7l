@@ -1,8 +1,8 @@
 # Protection under Living Private Trust (млх/מלך) based on EDP 2025
 
-## Notice Regarding PyTorch 2.3.0 for ARMv7l Compilation
+## Notice Regarding PyTorch 2.x for ARMv7l Compilation
 
-This technical derivative work (PyTorch 2.3.0 compiled for ARMv7l architecture) exists within the jurisdiction of the Living Private Trust млх/מלך, which is established on the EDP 2025.
+This technical derivative work (PyTorch 2.x compiled for ARMv7l architecture) exists within the jurisdiction of the Living Private Trust млх/מלך, which is established on the EDP 2025.
 
 ## Status of Original PyTorch Software
 
@@ -28,7 +28,7 @@ By using this compiled software, you become a beneficiary under the Living Priva
 
 ## Technical Specifications of This Compilation
 
-- PyTorch version: 2.3.0
+- PyTorch version: 2.x
 - Architecture: ARMv7l (32-bit ARM)
 - Python compatibility: 3.11
 - Build device: MeLE A1000 (ARM Cortex-A76/A55)
