@@ -5,7 +5,7 @@
 [![OpenCV 4.9.0](https://img.shields.io/badge/OpenCV-4.9.0-green.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/blob/main/releases/asset/opencv_python_armv7l-4.9.0-py3-none-linux_armv7l.whl)
 [![NumPy 1.26.4](https://img.shields.io/badge/NumPy-1.26.4-blue.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/blob/main/releases/asset/numpy-1.26.4-cp311-cp311-linux_armv7l.whl)
 [![SciPy 1.13.1](https://img.shields.io/badge/SciPy-1.13.1-orange.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/blob/main/releases/asset/scipy-1.13.1-cp311-cp311-linux_armv7l.whl)
-[![ARMv7l](https://img.shields.io/badge/arch-ARMv7l-green.svg)]()
+[![ARMv7l](https://img.shields.io/badge/arch-ARMv7l-red.svg)]()
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)]()
 
 ---
