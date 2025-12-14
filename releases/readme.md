@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿# ARMv7l ML/OCR Asset
+# 🧰 ARMv7l ML/OCR Asset
 
 **A collection of pre-built, optimized libraries** for machine learning and EPUB document processing on ARMv7l architecture (Raspberry Pi, Orange Pi, etc.), compiled on the same MeLE A1000 system as the main PyTorch build.
 
@@ -9,26 +8,14 @@
 [![SciPy 1.13.1](https://img.shields.io/badge/SciPy-1.13.1-orange.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/blob/main/releases/asset/scipy-1.13.1-cp311-cp311-linux_armv7l.whl)
 [![ARMv7l](https://img.shields.io/badge/arch-ARMv7l-green.svg)](https://itjihad.ru/mirrors/armbian/archive/melea1000/archive/Armbian_23.11.1_Melea1000_bookworm_current_6.1.63.img.xz)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/ftp/python/${VERSION}/Python-3.11.1.tgz)
-=======
-# ARMv7l ML/OCR Asset
-
-**A collection of pre-built, optimized libraries** for machine learning and EPUB document processing on ARMv7l architecture (Raspberry Pi, Orange Pi, etc.), compiled on the same MeLE A1000 system as the main PyTorch build.
-
-[![OpenCV 4.9.0](https://img.shields.io/badge/OpenCV-4.9.0-green.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/blob/main/releases/asset/opencv_python_armv7l-4.9.0-py3-none-linux_armv7l.whl)
-[![NumPy 1.26.4](https://img.shields.io/badge/NumPy-1.26.4-blue.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/blob/main/releases/asset/numpy-1.26.4-cp311-cp311-linux_armv7l.whl)
-[![SciPy 1.13.1](https://img.shields.io/badge/SciPy-1.13.1-orange.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/blob/main/releases/asset/scipy-1.13.1-cp311-cp311-linux_armv7l.whl)
-[![ARMv7l](https://img.shields.io/badge/arch-ARMv7l-red.svg)]()
-[![Python 3.11](https://img.shields.io/badge/python-3.11-yellow.svg)]()
->>>>>>> 2e67f9b3a939afd2e35516816de0d4bee6cd260b
 
 ---
 
-## Available Packages
+## 📦 Available Packages
 
-| Package | Version | Format | Direct Download |
+| Package | Version | Format | Purpose |
 | :--- | :--- | :--- | :--- |
 | **OpenCV** | 4.9.0 | `.whl` | [opencv_python_armv7l-4.9.0-py3-none-linux_armv7l.whl](./opencv_python_armv7l-4.9.0-py3-none-linux_armv7l.whl) |
-<<<<<<< HEAD
 
 | **NumPy** | 1.26.4 | `.whl` | [numpy-1.26.4-cp311-cp311-linux_armv7l.whl](./numpy-1.26.4-cp311-cp311-linux_armv7l.whl) |
 
@@ -37,13 +24,7 @@
 | **OpenBLAS** | 0.3.27 | `.deb` | [openblas-armv7l_0.3.27_armhf.deb](./openblas-armv7l_0.3.27_armhf.deb) |
 | **Tesseract OCR** | 5.3.3 | `.whl` | [tesseract_ocr-5.3.3-cp311-cp311-linux_armv7l.whl](./tesseract_ocr-5.3.3-cp311-cp311-linux_armv7l.whl). |
 
-=======
-| **NumPy** | 1.26.4 | `.whl` | [numpy-1.26.4-cp311-cp311-linux_armv7l.whl](./numpy-1.26.4-cp311-cp311-linux_armv7l.whl) |
-| **SciPy** | 1.13.1 | `.whl` | [scipy-1.13.1-cp311-cp311-linux_armv7l.whl](./scipy-1.13.1-cp311-cp311-linux_armv7l.whl) |
-| **OpenBLAS** | 0.3.27 | `.deb` | [openblas-armv7l_0.3.27_armhf.deb](./openblas-armv7l_0.3.27_armhf.deb) |
-
->>>>>>> 2e67f9b3a939afd2e35516816de0d4bee6cd260b
-## Quick Installation
+## 🚀 Quick Installation
 
 ```bash
 # Install all Python packages from the wheel files in this directory
