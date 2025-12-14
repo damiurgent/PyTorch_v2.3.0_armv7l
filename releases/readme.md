@@ -1,3 +1,9 @@
+# PyTorch 2.5.0 for ARMv7l
+
+[![GitHub Release](https://img.shields.io/badge/Release-v1.0-blue)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v.2.5.0/torch-2.5.0+armv7l.lpt.mlh.2025.git32f585d-cp311-cp311-linux_armv7l.whl)
+
+**Release PyTorch 2.5.0 for ARMv7l (32 bit) architecture** - compiled on MeLE A1000 (ARM Cortex-A76/A55) after 14 days of compilation on Armbian_23.11.1_Melea1000_bookworm_current_6.1.63
+
 # ARMv7l ML/OCR Asset
 
 **A collection of pre-built, optimized libraries** for machine learning and EPUB document processing on ARMv7l architecture (Raspberry Pi, Orange Pi, etc.), compiled on the same MeLE A1000 system as the main PyTorch build.
