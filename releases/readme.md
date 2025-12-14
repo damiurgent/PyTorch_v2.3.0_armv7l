@@ -16,10 +16,10 @@
 | Package | Version | Format | Purpose |
 | :--- | :--- | :--- | :--- |
 | **OpenCV** | 4.9.0 | `.whl` | [opencv_python_armv7l-4.9.0-py3-none-linux_armv7l.whl](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/tesseract_ocr-5.3.3-cp311-cp311-linux_armv7l.whl) |
-| **NumPy** | 1.26.4 | `.whl` | [numpy-1.26.4-cp311-cp311-linux_armv7l.whl](./numpy-1.26.4-cp311-cp311-linux_armv7l.whl) |
-| **SciPy** | 1.13.1 | `.whl` | [scipy-1.13.1-cp311-cp311-linux_armv7l.whl](./scipy-1.13.1-cp311-cp311-linux_armv7l.whl) |
-| **OpenBLAS** | 0.3.27 | `.deb` | [openblas-armv7l_0.3.27_armhf.deb](./openblas-armv7l_0.3.27_armhf.deb) |
-| **Tesseract OCR** | 5.3.3 | `.whl` | [tesseract_ocr-5.3.3-cp311-cp311-linux_armv7l.whl](./tesseract_ocr-5.3.3-cp311-cp311-linux_armv7l.whl). |
+| **NumPy** | 1.26.4 | `.whl` | [numpy-1.26.4-cp311-cp311-linux_armv7l.whl](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/numpy-1.26.4-cp311-cp311-linux_armv7l.whl) |
+| **SciPy** | 1.13.1 | `.whl` | [scipy-1.13.1-cp311-cp311-linux_armv7l.whl](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/scipy-1.13.1-cp311-cp311-linux_armv7l.whl) |
+| **OpenBLAS** | 0.3.27 | `.deb` | [openblas-armv7l_0.3.27_armhf.deb](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/openblas-armv7l_0.3.27_armhf.deb) |
+| **Tesseract OCR** | 5.3.3 | `.whl` | [tesseract_ocr-5.3.3-cp311-cp311-linux_armv7l.whl](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/tesseract_ocr-5.3.3-cp311-cp311-linux_armv7l.whl). |
 
 ## 🚀 Quick Installation
 
