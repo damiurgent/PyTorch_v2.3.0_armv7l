@@ -32,6 +32,7 @@
 
 ```bash
 # Install all Python packages from the wheel files in this directory
+pin install torch-2.5.0+armv7l.lpt.mlh.2025.git32f585d-cp311-cp311-linux_armv7l.whl
 pip install numpy-1.26.4-cp311-cp311-linux_armv7l.whl
 pip install scipy-1.13.1-cp311-cp311-linux_armv7l.whl
 pip install opencv_python_armv7l-4.9.0-py3-none-linux_armv7l.whl
