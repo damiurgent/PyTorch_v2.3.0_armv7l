@@ -6,7 +6,7 @@
 [![OpenCV 4.9.0](https://img.shields.io/badge/OpenCV-4.9.0-green.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/opencv_python_armv7l-4.9.0-py3-none-linux_armv7l.whl)
 [![NumPy 1.26.4](https://img.shields.io/badge/NumPy-1.26.4-blue.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/numpy-1.26.4-cp311-cp311-linux_armv7l.whl)
 [![SciPy 1.13.1](https://img.shields.io/badge/SciPy-1.13.1-orange.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/scipy-1.13.1-cp311-cp311-linux_armv7l.whl)
-[![ARMv7l](https://img.shields.io/badge/arch-ARMv7l-green.svg)](https://itjihad.ru/mirrors/armbian/archive/melea1000/archive/Armbian_23.11.1_Melea1000_bookworm_current_6.1.63.img.xz)
+[![ARMv7l-Armbian](https://img.shields.io/badge/arch-ARMv7l-green.svg)](https://armbian.atomonetworks.com/archive/melea1000/archive/Armbian_23.11.1_Melea1000_bookworm_current_6.1.63.img.xz)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/ftp/python/${VERSION}/Python-3.11.1.tgz)
 
 ---
