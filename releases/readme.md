@@ -1,6 +1,6 @@
 # PyTorch 2.3.0 for ARMv7l
 
-[![GitHub Pre-Release](https://img.shields.io/badge/Release-v1.0-blue)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/tag/v1.0)
+[![GitHub Pre-Release](https://img.shields.io/badge/Pre-Release-v1.0-blue)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/tag/v1.0)
 
 **Pre-built PyTorch 2.3.0 for ARMv7l (32 bit) architecture** - compiled on MeLE A1000 (ARM Cortex-A76/A55) after 14 days of compilation on Armbian_23.11.1_Melea1000_bookworm_current_6.1.63.img
 
