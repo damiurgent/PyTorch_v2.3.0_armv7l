@@ -14,13 +14,13 @@
 
 **A collection of pre-built, optimized libraries** for machine learning and EPUB document processing on ARMv7l architecture (Raspberry Pi, Orange Pi, etc.), compiled on the same MeLE A1000 system as the main PyTorch build.
 
-[![OpenCV 4.9.0](https://img.shields.io/badge/OpenCV-4.9.0-green.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/opencv_python_armv7l-4.9.0-py3-none-linux_armv7l.whl)
-[![NumPy 1.26.4](https://img.shields.io/badge/NumPy-1.26.4-blue.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/numpy-1.26.4-cp311-cp311-linux_armv7l.whl)
+[![OpenCV 4.9.0](https://img.shields.io/badge/OpenCV-4.9.0-red.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/opencv_python_armv7l-4.9.0-py3-none-linux_armv7l.whl)
+[![NumPy 1.26.4](https://img.shields.io/badge/NumPy-1.26.4-orange.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/numpy-1.26.4-cp311-cp311-linux_armv7l.whl)
 [![OpenBLAS 0.3.27](https://img.shields.io/badge/OpenBLAS-0.3.27-yellow.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/openblas-armv7l_0.3.27_armhf.deb)
-[![Tesseract 5.3.3](https://img.shields.io/badge/Tesseract-5.3.3-red.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/tesseract_ocr-5.3.3-cp311-cp311-linux_armv7l.whl)
-[![SciPy 1.13.1](https://img.shields.io/badge/SciPy-1.13.1-orange.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/scipy-1.13.1-cp311-cp311-linux_armv7l.whl)
-[![ARMv7l-Armbian](https://img.shields.io/badge/arch-ARMv7l-magenta.svg)](https://armbian.atomonetworks.com/archive/melea1000/archive/Armbian_23.11.1_Melea1000_bookworm_current_6.1.63.img.xz)
-[![Python 3.11](https://img.shields.io/badge/python-3.11-cian.svg)](https://www.python.org/downloads/)
+[![Tesseract 5.3.3](https://img.shields.io/badge/Tesseract-5.3.3-green.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/tesseract_ocr-5.3.3-cp311-cp311-linux_armv7l.whl)
+[![SciPy 1.13.1](https://img.shields.io/badge/SciPy-1.13.1-cian.svg)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/scipy-1.13.1-cp311-cp311-linux_armv7l.whl)
+[![ARMv7l-Armbian](https://img.shields.io/badge/arch-ARMv7l-blue.svg)](https://armbian.atomonetworks.com/archive/melea1000/archive/Armbian_23.11.1_Melea1000_bookworm_current_6.1.63.img.xz)
+[![Python 3.11](https://img.shields.io/badge/python-3.11-magenta.svg)](https://www.python.org/downloads/)
 
 ---
 
