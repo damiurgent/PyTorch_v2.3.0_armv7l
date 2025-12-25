@@ -1,3 +1,5 @@
+There are patches for PyTorch 2.3.0+ only.
+
 pytorch/torch/csrc/functorch/init.cpp
 pytorch/caffe2/python/pybind_workspace.cc
 pytorch/c10/test/core/Scalar_test.cpp
