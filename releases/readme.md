@@ -59,7 +59,7 @@
 | **pix2tex** | 0.1.4 | `.whl` | [pix2tex-0.1.4-py3-none-any.whl](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/pix2tex-0.1.4-py3-none-any.whl) |
 | **NLTK** | 3.8.1 | `.whl` | [nltk-3.8.1-py3-none-any.whl](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0.0-asset/nltk-3.8.1-py3-none-any.whl) |
 
-*Note: This is a curated selection of ML/OCR packages. Additional dependency packages are also available in the repository.*
+*Note: This is a curated selection of ML/OCR packages. Additional dependency packages are also available in the [repository](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/tag/v1.0.0-asset).*
 
 ## 🚀 Quick Installation
 
