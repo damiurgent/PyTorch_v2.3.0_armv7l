@@ -12,9 +12,9 @@
 
 # PyTorch 2.11.0 for ARMv7l
 
-**Release PyTorch 2.11.0 for ARMv7l (32 bit) architecture** - cross-compiled by x64_86 based on Arch OS Linux.
-
 [![GitHub Release](https://img.shields.io/badge/Release-v2.11.0-blue)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v.2.11.0/torch-2.11.0a0+mlh.ada5398-cp311-cp311-linux_armv7l.whl)
+
+**Release PyTorch 2.11.0 for ARMv7l (32 bit) architecture** - cross-compiled by x64_86 based on Arch OS Linux.
 
 # ARMv7l ML/OCR Asset
 
