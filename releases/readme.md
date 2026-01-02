@@ -1,4 +1,4 @@
-﻿# PyTorch 2.3.0 for ARMv7l
+# PyTorch 2.3.0 for ARMv7l
 
 [![GitHub Release](https://img.shields.io/badge/Release-v1.0-blue)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v1.0/torch-2.3.0+armv7l.lpt.mlh.2025-cp311-cp311-linux_armv7l.whl)
 
@@ -9,6 +9,12 @@
 [![GitHub Release](https://img.shields.io/badge/Release-v2.5.0-blue)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v.2.5.0/torch-2.5.0+armv7l.lpt.mlh.2025.git32f585d-cp311-cp311-linux_armv7l.whl)
 
 **Release PyTorch 2.5.0 for ARMv7l (32 bit) architecture** - compiled on MeLE A1000 (ARM Cortex-A76/A55) after upgrade USB to SATA interface and 4 days of compilation from Armbian_23.11.1_Melea1000_bookworm_current_6.1.63
+
+# PyTorch 2.5.0 for ARMv7l
+
+**Release PyTorch 2.11.0 for ARMv7l (32 bit) architecture** - cross-compiled by x64_86 based on Arch OS Linux.
+
+[![GitHub Release](https://img.shields.io/badge/Release-v2.11.0-blue)](https://github.com/damiurgent/PyTorch_v2.3.0_armv7l/releases/download/v.2.11.0/torch-2.11.0a0+mlh.ada5398-cp311-cp311-linux_armv7l.whl)
 
 # ARMv7l ML/OCR Asset
 
